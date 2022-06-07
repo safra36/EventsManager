@@ -366,5 +366,5 @@ const getTime = () => {
     return new Date().toISOString().replace(/T/, ' ').replace(/\..+/, '');
 }
 
-this.init(2300, "CastCloneEventManagerServer_4017508887");
+this.init(2000, "Password");
 
